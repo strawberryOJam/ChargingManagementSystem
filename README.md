@@ -87,5 +87,5 @@
 [![pAHMxpV.md.png](https://s21.ax1x.com/2024/12/10/pAHMxpV.md.png)](https://imgse.com/i/pAHMxpV)
 ### 5 联系与支持
 包含项目启动搭建 数据库搭建 论文资料 依赖配置 运行环境搭建 运行项目 接入腾讯高德地图Api
-wx QRcode:
+wx QRcode: chill_yh
 [![pAHQccT.md.jpg](https://s21.ax1x.com/2024/12/10/pAHQccT.md.jpg)](https://imgse.com/i/pAHQccT)

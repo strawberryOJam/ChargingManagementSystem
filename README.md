@@ -4,6 +4,10 @@
 
 本项目是一个基于Spring Boot和Vue的充电桩管理系统，系统包含三种角色：管理员、用户和维修人员。
 
+###  论文文档
+该项目包含论文 中期报告 开题报告 外文翻译 开题ppt
+[![pAHMjf0.md.png](https://s21.ax1x.com/2024/12/10/pAHMjf0.md.png)](https://imgse.com/i/pAHMjf0)
+
 ### 角色功能
 
 - **管理员**：负责用户管理、充电桩管理、报修管理、类别管理、充电常识管理等。
@@ -79,12 +83,7 @@
 
 ### 4.5 项目文档目录
 [![pAHMxpV.md.png](https://s21.ax1x.com/2024/12/10/pAHMxpV.md.png)](https://imgse.com/i/pAHMxpV)
-
-### 5 论文文档
-该项目包含论文 中期报告 开题报告 外文翻译 开题ppt
-[![pAHMjf0.md.png](https://s21.ax1x.com/2024/12/10/pAHMjf0.md.png)](https://imgse.com/i/pAHMjf0)
-
-### 6联系与支持
+### 5 联系与支持
 包含项目启动搭建 数据库搭建 论文资料 依赖配置 运行环境搭建 运行项目 接入腾讯高德地图Api
 wx QRcode:
 [![pAHQccT.md.jpg](https://s21.ax1x.com/2024/12/10/pAHQccT.md.jpg)](https://imgse.com/i/pAHQccT)
